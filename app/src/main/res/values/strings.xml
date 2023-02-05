@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SenanovV2</string>
+    <string name="search">Search</string>
+    <string name="_popular">Популярные</string>
+    <string name="_hintSearch">Поиск</string>
+    <string name="_favourite">Избранное</string>
+    <string name="_poster">Poster</string>
+</resources>
